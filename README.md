@@ -6,5 +6,3 @@
 - 💬 Ask me about **Tailwind CSS**
 
 - 📫 How to reach me **fooaishen@yahoo.com**
-
-<h3 align="left">Connect with me:</h3>
